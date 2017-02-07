@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to my "Wrangle OpenStreetMap Databases" Project Page!
 
-You can use the [editor on GitHub](https://github.com/mmlak-0109/data-analyst-nanodegree-wrangle-OpenStreetMap-databases/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+In this project I wrangled the XML OpenStreetMap data for Los Angeles, CA.  I then used data munging techniques to assess the quality of the data for validity, accuracy, completeness, consistency and uniformity.  To finish it off, I used SQL to store, query, and aggregate the data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmlak-0109/data-analyst-nanodegree-wrangle-OpenStreetMap-databases/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Both the original `.ipynb` file and the generated `.html` file can be found by clicking the "View on GitHub" link above.
