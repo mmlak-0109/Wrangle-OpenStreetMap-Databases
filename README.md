@@ -1,6 +1,8 @@
 ## Welcome to my "Wrangle OpenStreetMap Databases" Project Page!
 
-I completed this project for Udacity's Data Analyst Nanodegree "Data Wrangling" and "SQL for Data Analysis" courses.  In these classes we learned how to do the following things:
+I completed this project for Udacity's Data Analyst Nanodegree "Data Wrangling" and "SQL for Data Analysis" courses.
+
+In these classes we learned how to do the following things:
 
 - Assess the quality of the data for validity, accuracy, completeness, consistency and uniformity.
 - Parsing and gather data from popular file formats such as .json, .xml, .csv, and .html.
